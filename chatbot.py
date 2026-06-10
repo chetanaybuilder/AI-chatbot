@@ -6,9 +6,9 @@ from google import genai
 # ║       Day 2 - June 7, 2026               ║
 # ╚══════════════════════════════════════════╝
 
-client = genai.Client(api_key="paste_your_api_key")
+client = genai.Client(api_key="add_key_here")
 history = []
-
+ 
 print("╔══════════════════════════════════════╗")
 print("║      CHETANAYBUILDER AI v1.0         ║")
 print("║      By Chetanay | BILLIONERLAB      ║")
