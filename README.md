@@ -7,3 +7,5 @@ is to build an AI company in future.
 - love guru chat bot.py - Love advice chatbot
 - quiz game.py - Terminal quiz game
 - save and load bot.py - Chatbot with save/load history
+-english tutor bot
+-quiz with json
